@@ -16,7 +16,7 @@ header {
 
 #cyber {
   width: 500px;
-  height: 395px;
+  height: 295px;
   float: right;
   margin: 0 0 5px 5px;
   border-radius: 10px;
@@ -71,7 +71,7 @@ header {
 
 img.odin {
   width: 50%;
-  height: 265px;
+  height: 165px;
   float: right;
   display: block;
   margin: 0 0 10px 10px;
@@ -118,7 +118,7 @@ img.odin {
 
 #cherv {
   width: 500px;
-  height: 410px;
+  height: 310px;
   float: left;
   margin: 0 0 5px 5px;
   margin-top: 2%;
@@ -169,7 +169,7 @@ p.prog {
 
 #anti {
   width: 800px;
-  height: 449px;
+  height: 349px;
   float: left;
   margin-top: 2%;
   margin-right: 2%;
@@ -220,7 +220,7 @@ p.progg {
 
 #knigi {
   width: 500px;
-  height: 395px;
+  height: 280px;
   float: right;
   margin-top: 2%;
   margin-right: 2%;
